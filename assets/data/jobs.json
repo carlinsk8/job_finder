@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Product Designer",
+        "location":"San Francisco, C.A",
+        "teme_dark":true,
+        "favorite":true,
+        "company": {
+            "name":"Google",
+            "url_logo": "https://www.axarquiaplus.es/wp-content/uploads_cloud/2020/12/image-20150902-6700-t2axrz.jpg"
+        }
+    },
+    {
+        "role":"Data Science",
+        "location":"Seattle, W.C",
+        "teme_dark":false,
+        "favorite":false,
+        "company": {
+            "name":"Amazon",
+            "url_logo": "https://www.palimpalem.com/3/herranz/userfiles/am.png"
+        }
+    },
+    {
+        "role":"Front Developer",
+        "location":"San Mateo, C.A",
+        "teme_dark":false,
+        "favorite":true,
+        "company": {
+            "name":"Facebook",
+            "url_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png"
+        }
+    }
+]
